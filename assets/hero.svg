@@ -35,7 +35,7 @@
     <ellipse cx="450" cy="115" rx="380" ry="90" fill="url(#glow)" filter="url(#soft)">
       <animate attributeName="opacity" values="0.55;1;0.55" dur="4.5s" repeatCount="indefinite"/>
     </ellipse>
-    <text x="450" y="120" text-anchor="middle" font-family="Iowan Old Style, Palatino, Georgia, serif" font-style="Lucida" font-size="66" letter-spacing="-1" fill="url(#ember)">Yashieta</text>
+    <text x="450" y="120" text-anchor="middle" font-family="Iowan Old Style, Palatino, Georgia, serif" font-style="Poppins" font-size="66" letter-spacing="-1" fill="url(#ember)">Yashieta</text>
     <text x="450" y="164" text-anchor="middle" font-family="JetBrains Mono, Fira Code, SFMono-Regular, Consolas, monospace" font-size="15" letter-spacing="0.5" fill="#B99A82">a little chaos, carefully compiled</text>
     <line x1="330" y1="182" x2="570" y2="182" stroke="#FF7A33" stroke-width="1" stroke-opacity="0.35"/>
 
