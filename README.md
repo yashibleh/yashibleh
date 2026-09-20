@@ -86,3 +86,5 @@ yashibleh@github:~$ ls stack/
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:FF6B35&height=100&section=footer" width="100%"/>
 </p>
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/yashibleh/yashibleh/output/github-contribution-grid-snake.svg)
