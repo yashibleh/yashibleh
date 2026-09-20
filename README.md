@@ -54,8 +54,7 @@
   <img src="https://raw.githubusercontent.com/yashibleh/yashibleh/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
-<sub>one-time GitHub Action setup needed — see notes below</sub>
-
+## Ping me :3
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashieta-chauhan-a87412374" target="_blank">
