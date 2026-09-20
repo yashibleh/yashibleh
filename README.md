@@ -40,8 +40,8 @@
 ## the record
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashibleh&show_icons=true&hide_border=true&bg_color=1C1410&title_color=FF9A56&icon_color=FF7A33&text_color=E7D9C9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashibleh&layout=compact&hide_border=true&bg_color=1C1410&title_color=FF9A56&text_color=E7D9C9" />
+  <img height="165" src="https://github-readme-stats-why-sea.vercel.app/api?username=yashibleh&show_icons=true&hide_border=true&bg_color=1C1410&title_color=FF9A56&icon_color=FF7A33&text_color=E7D9C9" />
+  <img height="165" src="https://github-readme-stats-why-sea.vercel.app/api/top-langs/?username=yashibleh&layout=compact&hide_border=true&bg_color=1C1410&title_color=FF9A56&text_color=E7D9C9" />
 </p>
 
 <p align="center">
@@ -56,7 +56,6 @@
 
 <sub>one-time GitHub Action setup needed — see notes below</sub>
 
-## say hi
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashieta-chauhan-a87412374" target="_blank">
