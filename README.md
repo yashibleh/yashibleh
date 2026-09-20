@@ -41,7 +41,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-liart-two-69.vercel.app/api?username=yashibleh&show_icons=true&hide_border=true&bg_color=1C1410&title_color=FF9A56&icon_color=FF7A33&text_color=E7D9C9" />
-  <img height="165" src="https://github-readme-stats-liart-two-69.vercel.app/api?username=yashibleh&show_icons=true&hide_border=true&bg_color=1C1410&title_color=FF9A56&icon_color=FF7A33&text_color=E7D9C9" />
+  <img height="165" src="https://github-readme-stats-liart-two-69.vercel.app/api/top-langs/?username=yashibleh&layout=compact&hide_border=true&bg_color=1C1410&title_color=FF9A56&text_color=E7D9C9" />
 </p>
 
 <p align="center">
